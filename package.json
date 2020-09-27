@@ -1,0 +1,29 @@
+{
+  "author": {
+    "name": "Nathan DELHAYE"
+  },
+  "name": "ccms-log",
+  "description": "Logging module for CCMS",
+  "version": "1.0.2",
+  "repository": {
+    "url": "https://pikacode.com/redcat/ccms-log/"
+  },
+  "main": "./lib/log.js",
+  "keywords": [
+    "log",
+    "winston",
+    "ccms"
+  ],
+  "dependencies": {
+    "winston": "0.7.x",
+    "dateformat": "1.0.7-1.2.3"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "ccms-log@1.0.2",
+  "_shasum": "15379e8846e4154afd4dbd0a32506d87aa036ed0",
+  "_resolved": "git+http://pikacode.com/redcat/ccms-log.git#fc1d04e9b41e60c0023297f62234f1d6d9c97048",
+  "_from": "ccms-log@git+http://pikacode.com/redcat/ccms-log.git#1.0.2"
+}
